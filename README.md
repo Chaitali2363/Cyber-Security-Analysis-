@@ -1,6 +1,6 @@
-# Cyber-Security-Analysis-
+# Global Cyber Security Threats 
 
-# 📊 Cybersecurity Monitoring Dashboard (Excel)
+# 📊 Global Cyber Security Threats Dashboard (Excel)
 
 This project is an interactive **Cybersecurity Dashboard** built in **Microsoft Excel**.  
 It provides insights into cyber threats, attack categories, device status, patch compliance,
